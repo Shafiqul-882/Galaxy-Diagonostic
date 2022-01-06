@@ -2,7 +2,7 @@
 
 Live Site: https://assignment-healthcare.web.app/
 
-Code Link: https://github.com/rased100/galaxy-healthcare-website
+Code Link: https://github.com/Shafiqul-882/Galaxy-Diagonostic
 
 
 - This website about Diagnostic Centre.
